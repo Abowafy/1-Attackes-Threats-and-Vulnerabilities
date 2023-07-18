@@ -30,7 +30,7 @@
 ### over 1641 exploits.
 ![image](https://github.com/Abowafy/1-Attackes-Threats-and-Vulnerabilities/assets/53989917/5c9c4f4b-effc-47b7-88b0-2d03cd6c6bb1)
 
-### let do a quick grep on DLL 
+### let's do a quick grep on DLL 
 ![image](https://github.com/Abowafy/1-Attackes-Threats-and-Vulnerabilities/assets/53989917/1ae71435-5be6-47c1-9aae-e76bee589a1c)
 
 ---
